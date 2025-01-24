@@ -1,3 +1,0 @@
-pika pika pikapidddf
-
-dddcddgfgddd
