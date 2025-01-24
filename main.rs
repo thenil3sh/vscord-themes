@@ -1,2 +1,5 @@
 fn main() {
-    print!("Hey wor
+    println!("Hello world!");
+
+    return ();
+}
